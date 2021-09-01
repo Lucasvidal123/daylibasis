@@ -1,0 +1,7 @@
+{
+  "name": "dailybasis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
